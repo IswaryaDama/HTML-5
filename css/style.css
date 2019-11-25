@@ -5,6 +5,7 @@
     border-bottom: 2px solid cornflowerblue;
     
     margin: 0%;
+    
 }
 
 .navbar-brand img
@@ -17,7 +18,14 @@ width: 7vw;
 .navbar-brand ,#rowid
 {
     justify-content: flex-end;
+    margin-left: -10pt !important;
 }
+.carousel-item img
+{
+  height: 80vh;
+  width:  100vw;
+}
+
 .footer-sec
 {
     background-color: bisque;
