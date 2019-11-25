@@ -1,0 +1,25 @@
+.bg-dark
+{
+    background-color:aquamarine !important;
+    
+    border-bottom: 2px solid cornflowerblue;
+    
+    margin: 0%;
+}
+
+.navbar-brand img
+{
+margin: 0%;
+height: 5vh;
+width: 7vw;
+
+}
+/*.navbar-brand ,#rowid
+{
+    padding-left: 20em;
+}*/
+.footer-sec
+{
+    background-color: bisque;
+}
+
