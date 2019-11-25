@@ -14,10 +14,10 @@ height: 5vh;
 width: 7vw;
 
 }
-/*.navbar-brand ,#rowid
+.navbar-brand ,#rowid
 {
-    padding-left: 20em;
-}*/
+    justify-content: flex-end;
+}
 .footer-sec
 {
     background-color: bisque;
